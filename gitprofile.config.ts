@@ -20,7 +20,7 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: ['First_Repository_Notes'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
@@ -113,7 +113,7 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'L',
+      name: '',
       body: '',  //Lorem ipsum dolor sit amet
       year: '',  // March 2022
       link: '',  //https://example.com
