@@ -57,51 +57,51 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'Samuel Asah Akyeampong',
+    twitter: 'Azaa_Broni',
+    //mastodon: '',
     researchGate: '',
-    facebook: '',
-    instagram: '',
-    youtube: '', // example: 'pewdiepie'
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    //facebook: '',
+    //instagram: '',
+    //youtube: '', // example: 'pewdiepie'
+    //dribbble: '',
+    //behance: '',
+    //medium: '',
+    //dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    //website: 'https://www.arifszn.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'sammyasah23@gmail.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
+    'STATA',
+    'SPSS',
+    'LATEX',
+    //'React.js',
+    //'Node.js',
+    //'Nest.js',
+    //'MySQL',
+    //'PostgreSQL',
     'Git',
     'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    //'PHPUnit',
+    //'',
+   // '',
+    '',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Institute of Economic Development and Economic Research',
+      position: ' Junior Researcher (Development Economist)',
+      from: 'June 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://ideresearch.org/',
     },
     {
       company: 'Company Name',
@@ -113,24 +113,30 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'L',
+      body: '',  //Lorem ipsum dolor sit amet
+      year: '',  // March 2022
+      link: '',  //https://example.com
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'University of Ghana, Legon',
+      degree: 'MPhil Agribusiness',
+      from: 'January 2021',
+      to: 'December 2022',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'The University of Goettingen',
+      degree: 'MPhil Sustainable International Agriculture',
+      from: 'April 2022',
+      to: ' July 2022',
+    },
+    {
+      institution: 'University of Ghana, Legon',
+      degree: 'BSc Agribusiness',
+      from: '2015',
+      to: '2019',
     },
   ],
   publications: [
@@ -168,7 +174,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'emerald',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
